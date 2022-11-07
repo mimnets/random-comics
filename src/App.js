@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import Comics from './components/Comics/Comics';
+import Apilist from './components/Apilist/Apilist';
 
 function App() {
   return (
     <div className="App">
-      <Comics></Comics>
+      <Apilist></Apilist>
     </div>
   );
 }
